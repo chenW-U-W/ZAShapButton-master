@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9A7D88D360D0EE27A4514C0B83FE2B83A8ED57A2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9A7D88D360D0EE27A4514C0B83FE2B83A8ED57A2" : 0,
+    "DEFDE0057750B6E4F114E9A353BDC71E671D66A9" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0D537AA7-72F4-472B-B53C-7B09C5D99186",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9A7D88D360D0EE27A4514C0B83FE2B83A8ED57A2" : "ZAShapButton-master\/",
+    "DEFDE0057750B6E4F114E9A353BDC71E671D66A9" : "ZAShapButton"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ZAShapeButton",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ZAShapeButton.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/chenW-U-W\/ZAShapButton-master.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9A7D88D360D0EE27A4514C0B83FE2B83A8ED57A2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/chuting\/ZAShapButton.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DEFDE0057750B6E4F114E9A353BDC71E671D66A9"
+    }
+  ]
+}

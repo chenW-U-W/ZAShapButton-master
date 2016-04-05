@@ -328,7 +328,7 @@
                 [self.layer addSublayer:maskLayer];
                 [layerArray addObject:maskLayer];
                 
-                
+                NSLog(@"");
             }
             
         }
